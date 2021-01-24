@@ -26,3 +26,11 @@ A player action is considered to be
 -submitting a proposal
 More player actions may be defined in other rules.
 Rule 14: Creation of a Tags system is to take place to allow logical constructs and Players to be categorized based on the Tags assigned to them. As with Stats, Tags are to be considered an inherent part of the Player's/construct's being.
+Rule 15: Multiple proposals may be made at one time by proposing a BILL.  In making a proposal, players may use the form 
+Proposal [n] BILL: 
+[n].[a]: [action]
+[n].[b]: [action]
+...
+[n].[z]: [action]
+Where [n] is the proposal number as described in rule 11, [a], [b], and [z] are lowercase letters of the English Alphabet in sequential order, '...' signifies that a variable number of actions may be proposed in this way, so long as there are at least 2 and no more than 26 actions in a single BILL, and [action] is an action to be taken as described in rule 11.
+If a BILL proposal passes, all actions defined within it are taken sequentially, starting at [n].[a].
