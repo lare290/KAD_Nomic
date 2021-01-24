@@ -11,3 +11,12 @@ Rule 10: Taken Illegal actions may be called out by another Player by calling a 
 Rule 11: All proposals are to be in the form of 'Proposal n: [action]' Where n is a number assigned to the proposal, these numbers should be in a strictly rising sequence in which 1 is the number of the first proposal and every other proposal having a number exactly 1 larger than the previous, and [action] is the description of what should happen in the game, for example 'Proposal 2: Add a rule containing "Every player should own a computer to be able to access Discord".' Anything that does not follow this form is considered to not be a legal proposal.
 Rule 0: If two rules are found to be in direct conflict with each other such that only one of them may be partially or fully followed without breaking the rules, the one with the larger number is considered to be void in the conflicting parts.
 For this purpose, each rule is to be assigned a number. This rule is to be assigned the number 0, all other rules are to be assigned the numbers they are currently labeled as on Github, and every new rule that is added is to be assigned a number 1 larger than the previous largest rule number.
+Rule 12: A proposal may be used to cause a game action to happen. Whether the action takes place is to be determined by a majority vote as outlined in other rules. For this purpose game actions are considered to be
+-adding a new rule or rules
+-changing an existing rule or rules
+-removing an existing rule or rules
+-appointing an office or offices. If the office in question is currently occupied, the current owner of the title will lose it and it is transferred to the person appointed
+For this purpose offices are considered to be
+-judge
+-scribe
+New game actions and offices may be defined in other rules.
